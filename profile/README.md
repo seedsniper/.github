@@ -1,8 +1,7 @@
 # seedsniper.cc
-### Minecraft Name Sniper / Swapper
+### Info
 THIS ORGANIZATION IS ONLY FOR STORAGE<br>
 REPOSITORIES ARE PRIVATE YOU SKIDDIES<br>
-<br>
 ### Working
 - MFA SNIPER
 - GC SNIPER
